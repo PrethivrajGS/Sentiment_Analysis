@@ -29,5 +29,5 @@ A simple and fast **Sentiment Analyzer** web app built with [Streamlit](https://
 git clone https://github.com/your-username/gemini-flash-sentiment-analyzer.git
 cd gemini-flash-sentiment-analyzer
 ```
-##package
+## package
 pip install -r requirements.txt
