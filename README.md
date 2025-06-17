@@ -15,7 +15,7 @@ A simple and fast **Sentiment Analyzer** web app built with [Streamlit](https://
 
 ## 📸 Demo
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Sentiment+Analyzer+Demo)
+![App Screenshot](output.png)
 
 ---
 
